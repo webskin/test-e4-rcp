@@ -5,6 +5,9 @@
       <children xsi:type="basic:PartStack" xmi:id="_6wlLk8gZEeSyMNYR5xypkQ" elementId="com.example.e4.rcp.partstack.sample">
         <children xsi:type="basic:Part" xmi:id="_6wlLlMgZEeSyMNYR5xypkQ" elementId="com.example.e4.rcp.part.sample" contributionURI="bundleclass://com.example.e4.rcp/testing.parts.SamplePart" label="Sample Part"/>
       </children>
+      <children xsi:type="basic:PartStack" xmi:id="_4NXFEJ4UEee1p9zqbfV6Pw" elementId="com.example.e4.rcp.partstack.sample2">
+        <children xsi:type="basic:Part" xmi:id="_4NXFEZ4UEee1p9zqbfV6Pw" elementId="com.example.e4.rcp.part.sample2" contributionURI="bundleclass://com.example.e4.rcp/testing.parts.OverviewPart" label="Overview"/>
+      </children>
     </children>
     <mainMenu xmi:id="_6wlLicgZEeSyMNYR5xypkQ" elementId="org.eclipse.ui.main.menu">
       <children xsi:type="menu:Menu" xmi:id="_6wlLisgZEeSyMNYR5xypkQ" elementId="file" label="File">
